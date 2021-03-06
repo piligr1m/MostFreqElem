@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  2
+//  MostFrequentElement
 //
 //  Created by Stanislav Martynov on 26.12.2020.
 //
